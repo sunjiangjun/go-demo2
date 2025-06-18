@@ -1,4 +1,4 @@
-module github.com/sunjiangjun/go-demo
+module github.com/sunjiangjun/go-demo2
 
 go 1.24.2
 
